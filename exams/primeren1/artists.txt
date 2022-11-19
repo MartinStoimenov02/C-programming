@@ -1,0 +1,4 @@
+Ivan;38;BG;20000;1
+Rado;47;USA;9000000;3
+Sasho;59;Italia;70000;5
+Gosho;70;GB;5000;7

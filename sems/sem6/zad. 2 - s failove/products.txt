@@ -1,0 +1,10 @@
+Torta	20.00	12345
+Keks	10.00	12346
+Baklava	5.00	12344
+Tolumba	2.00	12354
+Suha_pasta	0.59	54321
+Skalichka	25.00	12367
+Vitosha	13.90	98765
+Ekler	2.90	56789
+Garaj	30.50	9876
+Krem_karamel	3.80	76576
