@@ -1,0 +1,6 @@
+Command: ADD student M G S 12345
+Command: ADD student I J J 12354
+Command: ADD student A I S 54345
+Command: ADD grade BG 6 45
+Command: ADD grade MAT 5 45
+Command: ADD grade IT 5 54

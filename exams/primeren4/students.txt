@@ -1,0 +1,3 @@
+17113: Ivan Ivanov Ivanov; Mat: 6 6 6 BG: 6 5 4 4 IT: 6 3
+17114: Martin Ivanov Spasov; Mat: 2 3 3 BG: 4 3 3 3 4 IT: 4 3
+12345: Ivelin Petkov Ivanov; Mat: 2 2 2 BG: 2 2 2 4 4 IT: 2 3
